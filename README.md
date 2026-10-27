@@ -37,4 +37,7 @@ Integrantes
 Proyecto académico individual de Soledad Caparrós
 
 Declaración de uso de IA
-Para este trabajo utilicé ChatGPT como herramienta de apoyo para elaborar el diagrama BPMN y para aprender a utilizar GitHub y organizar el repositorio del proyecto. Revisé las indicaciones y adapté el trabajo a las necesidades de mi consultorio.
+Para esta cuarta entrega del TPI utilicé ChatGPT como herramienta de apoyo para elaborar el diagrama BPMN, aprender a utilizar GitHub y organizar las tareas del proyecto.
+Los prompts estuvieron orientados a comprender cómo representar los procesos del consultorio, crear ramas, registrar commits, realizar pull requests y organizar las historias de usuario en un tablero Kanban.
+Fui revisando las respuestas y realizando correcciones para adaptarlas al funcionamiento real de Audífonos para Todos. También solicité explicaciones más sencillas y modifiqué algunas propuestas que resultaban demasiado complejas para el proyecto.
+La inteligencia artificial me ayudó a comprender herramientas nuevas, pero las decisiones finales y las modificaciones fueron realizadas por mí.
